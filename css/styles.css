@@ -1,0 +1,16 @@
+ul.navbar-nav li{
+    color: white;
+}
+div.dropdown{
+    float: right;
+}
+.main_content{
+    height: 100%;
+    padding: 100px 0;
+    min-height: 800px;
+}
+
+.resp-tabs-container ul li{
+    float: left;
+    padding: 50px;
+}
