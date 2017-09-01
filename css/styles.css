@@ -14,3 +14,9 @@ div.dropdown{
     float: left;
     padding: 50px;
 }
+img{
+    cursor:pointer;
+}
+#img_continer{
+    display: inline;
+}
